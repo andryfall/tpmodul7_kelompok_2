@@ -5,5 +5,6 @@ public class Program
     public static void Main()
     {
         Mahasiswa1302210110.ReadJSON();
+        matkul.ReadJSON();
     }
 }
